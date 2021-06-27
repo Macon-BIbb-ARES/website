@@ -77,7 +77,8 @@ author: Macon-Bibb ARES
 navbar-links:
   Home : "/"
   About: "about"
-  Repeaters: "Repeaters"
+  Repeaters: 
+    - DMR: "DMR"
   Resources:
     - FCC: "https://www.fcc.gov/bureau-divisions/mobility-division/amateur-radio-service"
     - ARRL: "http://www.arrl.org/"

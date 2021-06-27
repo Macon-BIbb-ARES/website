@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Repeaters
-permalink: /Repeaters/
+title: DMR
+permalink: /DMR/
 ---
 Our Brand new DMR repeater is now on the air with a great foot print. It is internet connected:
 443.075 +5.0mhz
