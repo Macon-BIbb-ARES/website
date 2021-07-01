@@ -6,6 +6,6 @@ banner: "assets/images/ARES.jpg"
 ---
 [DMR](/DMR/) 
 
-[ARRL](http://www.arrl.org/) 
+[DSTAR](/DSTAR/) 
 
-[Macon-Bibb EMA](https://www.maconbibb.us/ema/) 
+[Analog](/Analog/) 
