@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+banner: "assets/images/ARES.jpg"
 ---
 
 Bibb County GA Amateur Radio Emergency Service [(ARES)](http://www.arrl.org/ares) is a group of dedicated Amateur Radio volunteers ("Hams") that provide emergency communications [(EmComm)](http://www.arrl.org/emergency-communications) for various public safety agencies in the Middle GA area in a time of disaster and infrastructure failure.  Our National Weather Service [(NWS)](http://www.weather.gov/) trained members also provide weather related information for the Central Georgia Area through the NWS [SkyWarn](http://www.weather.gov/skywarn/) spotter program.
