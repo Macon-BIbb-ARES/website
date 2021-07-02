@@ -14,7 +14,7 @@ permalink: /Members/
 <tbody>
     <tr>
         <td>Charlie Coiner</td>
-        <td>xx4xx</td>
+        <td>WD4CC</td>
         <td>EC</td>
     </tr>
     <tr>
