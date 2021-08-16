@@ -9,6 +9,7 @@ permalink: /Members/
         <th>Name</th>
         <th>Callsign</th>
         <th>Position</th>
+        <th>Contact</th>
     </tr>
 </thead>
 <tbody>
@@ -21,10 +22,12 @@ permalink: /Members/
         <td>Matt Parker</td>
         <td>W4MLP</td>
         <td>AEC</td>
+        <td><A HREF="#" onclick="dkjhsdf='pm'; tldteasda='me'; asfasddsa='w4mlp'; prompt('Copy address to clipboard',asfasddsa+'@'+dkjhsdf+'.'+tldteasda); return false">E-Mail</A></td>
     </tr>   
     <tr>
         <td>Kerry Hatcher</td>
         <td>KK4GTA</td>
         <td></td>
+        <td><A HREF="#" onclick="dkjhsdf='pm'; tldteasda='me'; asfasddsa='w4mlp'; prompt('Copy address to clipboard',asfasddsa+'@'+dkjhsdf+'.'+tldteasda); return false">E-Mail</A></td>
    </tr>
 </tbody>
