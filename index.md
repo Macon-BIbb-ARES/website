@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Us
-permalink: /about/
+title: Home
+permalink: /
 banner: "assets/images/ARES.jpg"
 ---
 

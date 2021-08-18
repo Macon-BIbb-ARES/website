@@ -14,6 +14,7 @@ Common Talkgroups:
 |------------|----------------|----------------|--------------|--------------|
 9|Local 9|1|WX4EMA Repeater Only|Static
 3113|Georgia|2|GA State TG (BM)|Static
+310592|Vidalia Local|2|Full time repeaters in Cochran, Dublin, Vidalia, Douglas, Waycross, Dawson, And soon Pelham.|Dynamic
 31130|Georgia ARES|2|GA State ARES TG|Dynamic
 3174|Southeast Region|2|AR LA KY TN MS AL GA FL NC SC (DMR-MARC) (DMR+ 4644)|Dynamic
 
