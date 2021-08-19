@@ -129,8 +129,9 @@ brand_color: orangered
 # # this and add the path to the pages in order as they should show up
 header_pages:
   - index.md
+  - Joinus.md
   - News.html
-  - Resources.md
+  - Partners.md
   - Repeaters.md
 
 
