@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Us
 permalink: /about/
 banner: "assets/images/ARES.jpg"
 ---

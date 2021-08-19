@@ -128,17 +128,18 @@ brand_color: orangered
 # If you want to link only specific pages in your header, uncomment
 # # this and add the path to the pages in order as they should show up
 header_pages:
-  - index.html
-  - about.markdown
-  - Resources.md
+  - index.md
+  - Joinus.md
+  - News.html
+  - Partners.md
   - Repeaters.md
 
 
 # Page default value
 defaults:
   home:
-    heading: "Macon-Bibb ARES"
-    subheading: "When all else fails - Amateur Radio works!"
+    heading: " "
+    subheading: " "
     banner: "assets/images/ARES.jpg"
 
 # Banner default settings

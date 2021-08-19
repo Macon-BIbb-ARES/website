@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "September Meeting"
 date:   2021-06-26 20:35:18 -0400
 categories: Announcements
 ---
 
-This is an empty post... More to come later.
+September meeting is on the 7th at 6:30pm.
