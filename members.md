@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Members
-permalink: /Members/
+permalink: /members/
 ---
 <table class="searchable sortable">
 <thead>
