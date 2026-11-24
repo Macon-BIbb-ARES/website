@@ -16,6 +16,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
+    csv (3.3.7)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -64,6 +65,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
+    logger (1.7.0)
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -98,7 +100,9 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (>= 1.6, < 3.0)
+  csv (~> 3.3)
   jekyll-theme-yat!
+  logger (~> 1.7)
   rake (>= 12.0, < 13.0)
 
 BUNDLED WITH
